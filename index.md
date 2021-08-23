@@ -16,7 +16,7 @@ The data that should be in your _dev arsenal_ include:
 This HTML formatted data for the **36 States in Nigeria** will aid your build flow and increase your overall speed and effectiveness.
 _feel free to `copy`_
 
->```html
+```html
 <select name="state" id="state">
   <option value="" selected> [ Select One ] </option>
   <option value="Abia">Abia</option>
@@ -57,6 +57,7 @@ _feel free to `copy`_
   <option value="Yobe">Yobe</option>
   <option value="Zamfara">Zamfara</option>
 </select>
->```
+```
 
-`### more features coming up`
+> ### more features coming up
+> - eddiebee
