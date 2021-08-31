@@ -1,4 +1,4 @@
-## Welcome to thenigerian
+### Welcome to thenigerian {#welcome}
 
 As a dev you will need a good amount of data to serve as content on your app or site (if you are working on a website).
 
