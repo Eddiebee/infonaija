@@ -11,7 +11,7 @@ The data that should be in your _dev arsenal_ include:
 
 **that's why I built this _for you_**
 
-### 36 States for an HTML input field
+# 36 States for an HTML input field
 
 This HTML formatted data for the **36 States in Nigeria** will aid your build flow and increase your overall speed and effectiveness.
 _feel free to `copy`_
@@ -58,7 +58,7 @@ _feel free to `copy`_
   <option value="Zamfara">Zamfara</option>
 </select>
 ```
-### Datalist containing the all countries in the World
+# Datalist containing all countries in the World
 Yeah, all set and ready for your use, **blast your project**  _Cheers🥂🥂_
 
 ```html
